@@ -1,0 +1,20 @@
+/* h1{
+    color: blueviolet;
+    font-size: 10px;
+} */
+
+
+#unique{
+color: blueviolet;
+font-size: 10px;
+} 
+
+.group1{
+    color: black !important;
+    font-size: 28px !important; 
+}
+
+.box {
+    border: 2px solid black; /* Define border properties */
+    padding: 10px; /* Add some space inside the box */
+  }
